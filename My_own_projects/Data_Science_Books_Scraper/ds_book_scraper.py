@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 """
-A simple data scraping script to get a data science books list from pdf drive. 
+A simple data scraping script to get a data science books dictionary from pdf drive.
+The dictionary is intended to be used as a counter to check most recommended DS books from another sources
 """
 
 headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 "
@@ -21,3 +22,5 @@ for parent in soup.find_all("ul"):
         for item in title:
             books[item.text.strip()] = 0
 print(books)
+
+# TODO scrape book recommendations sites to count repeated books in the dictionary "books". 
