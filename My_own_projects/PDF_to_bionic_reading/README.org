@@ -1,0 +1,16 @@
+# pdf-to-bionic-reading
+Convierte archivos PDF en [[https://bionic-reading.com/][Bionic Reading]]
+
+Bionic reading por si solo no convierte archivos PDF. 
+
+El script convierte los PDF en imágenes, que luego se convierten por OCR en texto, que puede leer la API de Bionic-Reading.
+
+Tambien crea un archivo de texto con el texto de las imágenes. 
+
+Funciona con archivos PDF que no se pueden convertir por otros medios como "less".
+
+El código está muy simple aún, y no he arreglado el asunto del encoding, ya que la API lo codifica como latin-1, y por tanto no funcionan los acentos.
+
+- TODO: Add menu
+
+- TODO: Add graphical interface. 
