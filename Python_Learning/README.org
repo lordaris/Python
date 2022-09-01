@@ -54,3 +54,13 @@ This is a suggested resources list based on text, from books and official docume
 - [[https://crime-data-explorer.fr.cloud.gov/][FBI Crime Data Explorer]]
 - [[https://www.reddit.com/r/datasets/][r/Datasets]]
 - [[http://academictorrents.com/browse.php][Academic Torrents]]
+
+
+* My learning timeline
+
+
+| Day | Topic         | Confidence (0-5) | Source |
+|-----+---------------+------------------+--------|
+|   1 | Data Visualization (with python)   |                1 | [[https://www.kaggle.com/learn][Kaggle]]
+ |
+|   2 |  Finished Data Visualization (with Python)              |           4       |   [[https://www.kaggle.com/learn][Kaggle]]     |
