@@ -59,9 +59,11 @@ This is a suggested resources list based on text, from books and official docume
 * My learning timeline
 
 
-| Day | Topic         | Confidence (0-5) | Source |
+| Day | Activity         | Confidence (0-5) | Source |
 |-----+---------------+------------------+--------|
 |   1 | Data Visualization (with python)   |                1 | [[https://www.kaggle.com/learn][Kaggle]]
  |
 |   2 |  Finished Data Visualization (with Python)              |           4       |   [[https://www.kaggle.com/learn][Kaggle]]     |
 | 2 | Made a data science repository | 5 | [[https://github.com/lordaris/Data_Science][DS repository]] |
+|3|Started Pandas|1|[[https://www.kaggle.com/learn/pandas][Kaggle]]|
+|3|Started Data Cleaning|1|[[https://www.kaggle.com/learn/data-cleaning][Kaggle]]|
