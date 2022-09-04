@@ -67,3 +67,4 @@ This is a suggested resources list based on text, from books and official docume
 | 2 | Made a data science repository | 5 | [[https://github.com/lordaris/Data_Science][DS repository]] |
 |3|Started Pandas|1|[[https://www.kaggle.com/learn/pandas][Kaggle]]|
 |3|Started Data Cleaning|1|[[https://www.kaggle.com/learn/data-cleaning][Kaggle]]|
+|4|Finished Data Cleaning|4|[[https://www.kaggle.com/learn/data-cleaning][Kaggle]]|
