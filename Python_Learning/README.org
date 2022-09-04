@@ -18,6 +18,7 @@ This is a suggested resources list based on text, from books and official docume
 
 ** Courses
 
+- [[https://www.kaggle.com/learn][Kaggle Learn (Data Science Courses)]]
 - [[https://automatetheboringstuff.com/][Automate The Boring Stuff With Python]]
 - [[http:inventwithpython.com/beyond][Beyond The Basic Stuff With Python]]
 - [[https://git-scm.com/doc][Git]]
@@ -27,6 +28,24 @@ This is a suggested resources list based on text, from books and official docume
 - [[https://pandas.pydata.org/docs/user_guide/index.html#user-guide][User Guide — pandas 1.4.2 documentation]]
 - [[https://matplotlib.org/stable/tutorials/index][Tutorials — Matplotlib 3.5.2 documentation]]
 
+
+** Github Resources
+- [[https://github.com/guipsamora/pandas_exercises][Pandas exercises]]
+
+*** Packt Workshops
+- [[https://github.com/PacktWorkshops/The-Data-Visualization-Workshop][The Data Visualization workshop]]
+- [[https://github.com/PacktWorkshops/The-Pandas-Workshop][The pandas workshop]]
+- [[https://github.com/PacktWorkshops/The-Data-Wrangling-Workshop][The Data Wrangling workshop]]
+- [[https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop][The Applied Data Science workshop]]
+- [[https://github.com/PacktWorkshops/The-TensorFlow-Workshop][The Tensorflow workshop]]
+- [[https://github.com/PacktWorkshops/The-Deep-Learning-Workshop][The Deep Learning workshop]]
+- [[https://github.com/PacktWorkshops/The-Reinforcement-Learning-Workshop][The reinforced learning workshop]]
+- [[https://github.com/PacktWorkshops/The-Deep-Learning-with-Keras-Workshop][The Deep Learning With Keras workshop]]
+- [[https://github.com/PacktWorkshops/The-Applied-Artificial-Intelligence-Workshop][The Applied Artificial Intelligence workshop]]
+- [[https://github.com/PacktWorkshops/The-MySQL-Workshop][The MySQL workshop]]
+- [[https://github.com/PacktWorkshops/The-Data-Analysis-Workshop][The Data Analysis workshop]]
+- [[https://github.com/PacktWorkshops/The-Deep-Learning-with-PyTorch-Workshop][The Deep Learning With PyTorch workshop]]
+- [[https://github.com/PacktWorkshops/The-Machine-Learning-Workshop][The Machine Learning workshop]]
 
 ** Mathematics & Statistics
 - [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]]
